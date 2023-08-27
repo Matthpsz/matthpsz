@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Matheus Souza (matthpsz)
 
-📚Estudante de back-end/front-end
+📚Estudante de Analise e Desenvolvimento de Sistemas
+
+Atualmente trabalho como dev. backend usando as linguagens VB.NET, VBA e SQL.
+Onde sou responsável por criar macros para automatizar tarefas repetitivas em diferentes softwares utilizados pela empresa, corrigir problemas em sistemas já existentes, criar novas funções para sistemas em produção.
+escrevendo o código, testando as novas funcionalidades e garantindo que elas estejam em conformidade com os padrões de qualidade e usabilidade.
 
 <div align="center">
   <a href="https://github.com/Matthpsz">
