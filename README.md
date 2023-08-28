@@ -1,17 +1,19 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Matthpsz/matthpsz/blob/main/imgheader.png" />
 &nbsp;&nbsp;&nbsp;
 
-<div align="center">
-Estudante de Analise e Desenvolvimento de Sistemas<br />
-<br />  
-<p>Atualmente trabalho como dev. backend usando as linguagens VB.NET, VBA e SQL.
+<h3 align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Welcome to my page!
+</h3>
 
-  Sou responsável por criar macros para automatizar tarefas repetitivas em diferentes softwares utilizados pela empresa, corrigir problemas em sistemas já existentes, criar novas funções para sistemas em produção escrevendo o código, testando as novas funcionalidades e garantindo que elas estejam em conformidade com os padrões de qualidade e usabilidade.</p>
-</div>
+<br />
+I'm Matheus Souza, back-end developer, currently 23 years old and passionate about programming.
 
-
-
-
+<br />🎓Studying Systems Analysis and Development.
+<br />👨🏻‍💻dev. backend VB.NET, VBA e SQL.
+<br />📚 Studying C#, Java and Kotlin.
+<br />
+<br />
 <div align="center">
   <a href="https://github.com/Matthpsz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthpsz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
