@@ -1,11 +1,16 @@
-### Olá! Eu sou o Matheus Souza (matthpsz)
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Matthpsz/matthpsz/blob/main/header.png" />
+&nbsp;&nbsp;&nbsp;
 
-📚Estudante de Analise e Desenvolvimento de Sistemas
+<div align="center">
+Estudante de Analise e Desenvolvimento de Sistemas<br />
+<br />  
+<p>Atualmente trabalho como dev. backend usando as linguagens VB.NET, VBA e SQL.
 
-Atualmente trabalho como dev. backend usando as linguagens VB.NET, VBA e SQL.
+  Sou responsável por criar macros para automatizar tarefas repetitivas em diferentes softwares utilizados pela empresa, corrigir problemas em sistemas já existentes, criar novas funções para sistemas em produção escrevendo o código, testando as novas funcionalidades e garantindo que elas estejam em conformidade com os padrões de qualidade e usabilidade.</p>
+</div>
 
-Onde sou responsável por criar macros para automatizar tarefas repetitivas em diferentes softwares utilizados pela empresa, corrigir problemas em sistemas já existentes, criar novas funções para sistemas em produção.
-escrevendo o código, testando as novas funcionalidades e garantindo que elas estejam em conformidade com os padrões de qualidade e usabilidade.
+
+
 
 <div align="center">
   <a href="https://github.com/Matthpsz">
