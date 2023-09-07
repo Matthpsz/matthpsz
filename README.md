@@ -23,4 +23,5 @@ I'm Matheus Souza, back-end developer, currently 23 years old and passionate abo
     
 <div>  
 <a href="https://www.linkedin.com/in/matheus-pinheiro-de-souza-14886b18b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    ![Snake animation](https://github.com/matthpsz/matthpsz/blob/output/github-contribution-grid-snake.svg)
 </div>   
