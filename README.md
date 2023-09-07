@@ -14,16 +14,16 @@ I'm Matheus Souza, back-end developer, currently 23 years old and passionate abo
 <br />📚 Studying C#, Java and Kotlin.
 <br />
 <br />
+
 <div align="center">
   <a href="https://github.com/Matthpsz">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthpsz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matthpsz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthpsz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-     
-<div>  
+  <div> 
 <a href="https://www.linkedin.com/in/matheus-pinheiro-de-souza-14886b18b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
     
    ![Snake animation](https://github.com/matthpsz/matthpsz/blob/output/github-contribution-grid-snake.svg)
+   
 </div>   
