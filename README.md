@@ -7,11 +7,10 @@
 </h3>
 
 <br />
-I'm Matheus Souza, back-end developer, currently 23 years old and passionate about programming.
+I'm Matheus Souza, back-end developer, currently 25 years old and passionate about programming.
 
 <br />🎓Studying Systems Analysis and Development.
 <br />👨🏻‍💻dev. backend VB.NET, VBA e SQL.
-<br />📚 Studying C#, Java and Kotlin.
 <br />
 <br />
 
