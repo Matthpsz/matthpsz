@@ -49,8 +49,7 @@
   </table>
 
   <br />
-  <p><i>Visual stack:</i></p>
-  
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,supabase,sqlserver,visualstudio,vscode,aws,git,github" alt="Minhas Tecnologias" />
   </a>
